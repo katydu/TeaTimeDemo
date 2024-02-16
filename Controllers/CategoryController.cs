@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using AspNetCore;
+//using AspNetCore;
 using Microsoft.AspNetCore.Mvc;
 using TeaTimeDemo.Data;
 using TeaTimeDemo.Models;
@@ -17,6 +17,7 @@ namespace TeaTimeDemo.Controllers
         }
         public IActionResult Index(){
             //List<Category> objCategoryList = _db.Categories.ToList();
+            //List<string> objCategoryList = new List<string>(){ "1", "茶飲", "10"}; 
             return View();
         }
     }

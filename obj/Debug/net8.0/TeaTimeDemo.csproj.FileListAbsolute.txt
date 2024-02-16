@@ -135,3 +135,6 @@ C:\Users\ys_user\Desktop\TeaTimeDemo\obj\Debug\net8.0\refint\TeaTimeDemo.dll
 C:\Users\ys_user\Desktop\TeaTimeDemo\obj\Debug\net8.0\TeaTimeDemo.pdb
 C:\Users\ys_user\Desktop\TeaTimeDemo\obj\Debug\net8.0\TeaTimeDemo.genruntimeconfig.cache
 C:\Users\ys_user\Desktop\TeaTimeDemo\obj\Debug\net8.0\ref\TeaTimeDemo.dll
+c:\Users\ys_user\Desktop\TeaTimeDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+c:\Users\ys_user\Desktop\TeaTimeDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+c:\Users\ys_user\Desktop\TeaTimeDemo\bin\Debug\net8.0\Newtonsoft.Json.dll
