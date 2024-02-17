@@ -5,6 +5,7 @@
         <tr>
             <th>類別名稱</th>
             <th>顯示順序</th>
+            <th></th>
         </tr>
     </thead>
     <tbody>
@@ -12,6 +13,12 @@
             <tr>
                 <td>@obj.Name</td>
                 <td>@obj.DisplayOrder</td>
+                <td>
+                    <div class="w-75 btn-group" role="group">
+                        <a asp-controller="Category" asp-action="Edit" class="btn">編輯</a>
+                        <a asp-controller="Category" asp-action="Delete" class="btn">刪除</a>
+                    </div>
+                </td>
             </tr>
         }
     </tbody>
