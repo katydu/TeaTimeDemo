@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ys_user\\Desktop\\TeaTimeDemo\\TeaTimeDemo.csproj": {}
+    "/Users/katydu/Desktop/TeaTimeDemo/TeaTimeDemo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ys_user\\Desktop\\TeaTimeDemo\\TeaTimeDemo.csproj": {
+    "/Users/katydu/Desktop/TeaTimeDemo/TeaTimeDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ys_user\\Desktop\\TeaTimeDemo\\TeaTimeDemo.csproj",
+        "projectUniqueName": "/Users/katydu/Desktop/TeaTimeDemo/TeaTimeDemo.csproj",
         "projectName": "TeaTimeDemo",
-        "projectPath": "c:\\Users\\ys_user\\Desktop\\TeaTimeDemo\\TeaTimeDemo.csproj",
-        "packagesPath": "C:\\Users\\ys_user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ys_user\\Desktop\\TeaTimeDemo\\obj\\",
+        "projectPath": "/Users/katydu/Desktop/TeaTimeDemo/TeaTimeDemo.csproj",
+        "packagesPath": "/Users/katydu/.nuget/packages/",
+        "outputPath": "/Users/katydu/Desktop/TeaTimeDemo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ys_user\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/katydu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,10 +43,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.2, )"
@@ -83,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

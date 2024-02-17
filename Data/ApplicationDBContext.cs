@@ -5,11 +5,12 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using TeaTimeDemo.Models;
 
+
 namespace TeaTimeDemo.Data
 {
-    public class ApplicationDBContext:DbContext
+    public class ApplicationDbContext : DbContext
     {
-        public ApplicationDBContext(DbContextOptions<ApplicationDBContext>options): base(options){
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext>options): base(options){
             
         }
         public DbSet<Category> Categories {get; set;}
