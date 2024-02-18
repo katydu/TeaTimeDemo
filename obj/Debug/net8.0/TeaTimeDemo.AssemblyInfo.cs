@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeaTimeDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2983e79bea8eb3ddbb1da67eefc2231e543e266e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7d9bce36b93d86ec55d28f79147ccbeeb791383")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeaTimeDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeaTimeDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
