@@ -16,7 +16,7 @@
                 <td>
                     <div class="w-75 btn-group" role="group">
                         <a asp-controller="Category" asp-action="Edit" asp-route-id="@obj.Id" class="btn btn-primary">編輯</a>
-                        <a asp-controller="Category" asp-action="Delete" class="btn btn-danger">刪除</a>
+                        <a asp-controller="Category" asp-action="Delete" asp-route-id="@obj.Id" class="btn btn-danger">刪除</a>
                     </div>
                 </td>
             </tr>
